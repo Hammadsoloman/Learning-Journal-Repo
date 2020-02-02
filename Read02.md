@@ -1,4 +1,6 @@
-# Welcome, curious reader
+# Text Editors
+
+## Welcome, curious reader
 
 **Are you asked yourself how we can write the information in the website? And how we can use and change the style in this site?**
 
