@@ -1,37 +1,14 @@
-## Welcome to Amman-102d5 Pages
+# Welcome to Amman-102d5 Pages
 
-You can use the [editor on GitHub](https://github.com/Hammadsoloman/hello-amman102d5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Growth Mindset 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+**Growth Mindset depend on how u think u should change your way in thinking to enhance your life**
+*so make sure to keep your mind flexibale not fixed*
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+###What is a growth mindset?###
+***A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-# Header 1
-## Header 2
-### Header 3
+***By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hammadsoloman/hello-amman102d5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![good way of thinking](https://quotefancy.com/media/wallpaper/1600x900/372602-Stephen-Richards-Quote-Our-way-of-thinking-creates-good-or-bad.jpg)
